@@ -2,7 +2,7 @@
 
 <html lang="en">
     <head>
-        <title>Bryan Liem's Website</title>
+        <title>Bryan Liem's Website - Contact</title>
         <meta charset="utf-8">
         <link href="main.css" rel="stylesheet">
         
@@ -11,8 +11,7 @@
     <body>
         <header>
         <h1><a href="index.html">Bryan Liem</a></h1>
-        <h2>College Student</h2>
-        <h3>Great Bay Community College</h3>
+        <h2>Contact</h2>
         </header>
         
         <nav>
@@ -26,7 +25,26 @@
         
         <!-- Page created for CIS124 -->
         <main>
-            <img src="images/placeholder350.png" alt="placeholder image 350px * 350px">
+            <form>
+                <div>
+                <label for="fullname">Name:</label>
+                <input type="text" id="fullname" required>
+                </div>
+                
+                <div>
+                <label for="message">Message:</label>
+                <textarea id="message"></textarea>
+                </div>
+                
+                <div>
+                <label for="email">Email:</label>
+                <input type="email" id="email">
+                </div>
+                
+                <div>
+                <input type="submit" value="Click to Submit">
+                </div>
+            </form>
             
         </main>
         
