@@ -1,0 +1,89 @@
+/* general text formatting */
+
+body {
+    font-size:100%; /*16px default measurement*/
+    background-color:floralwhite;
+    margin:1.0em;
+}
+
+h1, h2, h3, nav, footer {
+    font-family:"Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+}
+
+h1 {
+    font-family:Georgia, Cambria, "Times New Roman", serif;
+    font-size:1.5em;
+}
+
+/* header and navigation */
+
+header, footer {
+    color:white;
+    background-color:#3d6271;
+    /*margin: 0em 4.0em 0.5em 4.0em;*/
+    margin-top:0em;
+    margin-right:4.0em;
+    margin-bottom:0.5em;
+    margin-left:4.0em;
+}
+
+nav {
+    background-color:#728B96;
+    padding:0.25em;
+}
+
+nav ul li {
+    list-style:none;
+    display:inline;
+    margin:1.0em;
+}
+
+/* link styling */
+
+a:link {
+    font-weight:bold;
+    color:#47b3d7;
+}
+
+a:visited {
+    color:#bb78ff;
+}
+
+a:hover {
+    background-color:#ffff99;
+}
+
+.description {
+    background-color:crimson;
+}
+
+[title] {
+    cursor:help;
+    text-decoration:none;
+    padding-bottom:3px;
+    border-bottom:2px dotted blue;
+}
+
+h2 {
+    font-size:1.25em; /* equal to 20px */
+}
+
+h3 {
+    font-size:1.0em; /* equal to 16px */
+}
+
+#reviews {
+    border-bottom:solid 3px #213646;
+    color:#ed8030;
+}
+
+p {
+    font-size:1.0em;
+    color:#983c2a;
+    margin:0 0 0.5 0
+}
+
+h3 ~ p {
+    color:#ff0000;
+}
+
