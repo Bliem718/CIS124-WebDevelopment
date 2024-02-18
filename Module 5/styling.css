@@ -1,0 +1,54 @@
+h1 {
+    color:black;
+    background-color:powderblue;
+}
+
+h2 {
+    color:darkslategray;
+    background-color:powderblue;
+}
+
+h2:hover {
+    color:mediumblue;
+    background-color:powderblue;
+}
+
+p {
+    color:black;
+}
+
+caption {
+    color:midnightblue;
+    background-color:powderblue;
+    font-size:20pt;
+    font-style:oblique;
+}
+
+caption:hover {
+    color:darkgreen;
+    background-color:powderblue;
+    font-size:30pt;
+    font-style:oblique;
+}
+
+th {
+    color:midnightblue;
+    background-color:powderblue;
+}
+
+td {
+    color:darkblue;
+    background-color:lightcyan;
+}
+
+body nav ul li {
+    color:darkslategray;
+}
+
+footer nav ul li {
+    color:gray;
+}
+
+table, caption, th, td {
+    border:2px solid gray;
+}
