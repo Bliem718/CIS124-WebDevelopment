@@ -1,4 +1,92 @@
-h1 {
-    color:#274689;
-    background:lightblue;
+* {
+    font-family:verdana, san-serif;
+    font-size:100%; /* Default font size - 16px */
+    padding:0;
+    margin:0;
+}
+
+body {
+    background-image:url(images/sunflower.png);
+    background-repeat:repeat;
+}
+
+header{
+    margin:5px 25px 45px 65px; /* top right bottom left */
+    /* border:10px solid white; */
+    padding:65px 45px 25px 5px;
+    border-top:5px dashed black;
+    border-right:10px solid yellow;
+    border-bottom:20px dotted pink;
+    border-left:30px solid orange;
+}
+
+.home header {
+    background-color:red; /* background-color is more specific than background */
+    
+} 
+
+.bio header {
+    background-color:lightgreen;
+
+}
+
+.blog header {
+    background-color:dodgerblue;
+
+}
+
+.contact header {
+    background-color:darkorange;
+
+}
+.portfolio header {
+    background-color:mediumpurple;
+
+}
+
+h1, h2, h3, h1>a {
+    font-family:Georgia, serif;
+}
+
+nav {
+    background:white;
+    padding:25px;
+}
+
+nav a {
+    color:magenta;
+    text-decoration:none;
+}
+
+nav a:hover {
+    color:green;
+}
+
+nav ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+    border:0;
+}
+
+li {
+    display:inline;
+    background:yellow;
+    padding:12px;
+}
+
+main {
+    background-color:white;
+}
+
+footer nav {
+    background:pink;
+}
+
+img {
+    float:right;
+}
+
+footer {
+    clear:both;
 }
