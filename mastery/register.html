@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>Assignment 1 - Page 2</title>
+        <meta charset="utf-8">
+        <link href="mastery.css" rel="stylesheet">
+        
+    </head>
+        
+    <body>
+        <header>
+            <ul id="header-links">
+                <li><a href="register.html">My Account</a></li>
+                <li><a href="#">Wish List</a></li>
+                <li><a href="#">Shopping Cart</a></li>
+                <li><a href="#">Checkout</a></li>
+            </ul>
+        </header>
+        <h1 id="website-header">Art Store</h1>
+        <nav>
+            <ul id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Art Works</a></li>
+                <li><a href="#">Artists</a></li>
+            </ul>
+        </nav>
+        <main>
+            <form action="https://wp.zybooks.com/form-viewer.php" method="get">
+                <div id="title">Customer Registration</div>
+                <div class="form-caption">1. User Info</div>
+                <div class="form">
+                    <div class="form-data">
+                        <label for="first" class="form-label">First Name</label>
+                        <input type="text" name="first" id="first">
+                    </div>
+                    <div class="form-data">
+                        <label for="last" class="form-label">Last Name</label>
+                        <input type="text" name="last" id="last">
+                    </div>
+                    <div class="form-data">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" name="email" id="email" placeholder="format for email is xxx@yyy.zzz">
+                    </div>
+                    <div class="form-data">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" name="password" id="password" placeholder="at least 8 characters">
+                    </div>
+                    <div class="form-data">
+                        <label for="password-rep" class="form-label">Password Repeat</label>
+                        <input type="password" name="password-rep" id="password-rep" placeholder="at least 8 characters">
+                    </div>
+                </div>
+                <div class="form-caption">2. Location</div>
+                <div class="form">
+                    <div class="form-data">
+                        <label for="address" class="form-label">Address</label>
+                        <input type="text" name="address" id="address">
+                    </div>
+                    <div class="form-data">
+                        <label for="city" class="form-label">City</label>
+                        <input type="text" name="city" id="city">
+                    </div>
+                    <div class="form-data">
+                        <label for="state" class="form-label">State</label>
+                        <input type="text" name="state" id="state">
+                    </div>
+                    <div class="form-data">
+                        <label for="zip" class="form-label">Zip</label>
+                        <input type="text" name="zip" id="zip">
+                    </div>
+                    <div class="form-data">
+                        <label for="phone" class="form-label">Phone</label>
+                        <input type="tel" name="phone" id="phone" placeholder="NNN-NNN-NNNN">
+                    </div>
+                    <div class="form-data">
+                        <label for="country" class="form-label">Country</label>
+                        <select id="country">
+                            <option value="argentina">Argentina</option>
+                            <option value="belgium">Belgium</option>
+                            <option value="brazil">Brazil</option>
+                            <option value="canada">Canada</option>
+                            <option value="chile">Chile</option>
+                            <option value="colombia">Colombia</option>
+                            <option value="denmark">Denmark</option>
+                            <option value="ecuador">Ecuador</option>
+                            <option value="france">France</option>
+                            <option value="germany">Germany</option>
+                            <option value="ireland">Ireland</option>
+                            <option value="italy">Italy</option>
+                            <option value="luxembourg">Luxembourg</option>
+                            <option value="mexico">Mexico</option>
+                            <option value="netherlands">Netherlands</option>
+                            <option value="norway">Norway</option>
+                            <option value="peru">Peru</option>
+                            <option value="portugal">Portugal</option>
+                            <option value="spain">Spain</option>
+                            <option value="sweden">Sweden</option>
+                            <option value="united-kingdom">United Kingdom</option>
+                            <option value="united-states">United States</option>
+                            <option value="venezuela">Venezuela</option>
+                            <option value="unmentioned-country">Unmentioned Country</option>
+                        </select>
+                    </div>
+                    <div class="form-data">
+                    <div class="form-label">Continent</div>
+                        <div class="form-radio-checkbox">
+                            <input type="radio" name="continent" value="NorthAmerica" id="namerica">
+                            <label for="namerica" class="default-text">North America</label>
+                        </div>
+                        <div class="form-radio-checkbox">
+                            <input type="radio" name="continent" value="Europe" id="europe">
+                            <label for="europe" class="default-text">Europe</label>
+                        </div>
+                        <div class="form-radio-checkbox">
+                            <input type="radio" name="continent" value="SouthAmerica" id="samerica">
+                            <label for="samerica" class="default-text">South America</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-caption">3. Personal Data</div>
+                <div class="form">
+                    <div class="form-data">
+                        <label for="birth-day" class="form-label">Birth Day</label>
+                        <input type="date" name="birth-day" id="birth-day">
+                    </div>
+                    <div class="form-data">
+                        <label for="fav-color" class="form-label">Favorite Color</label>
+                        <input type="color" name="fav-color" id="fav-color">
+                    </div>
+                    <div class="form-data">
+                        <label for="interest-art" class="form-label">Interest In Art</label>
+                            <div id="interest-art-scale">
+                                <div class="default-text">Minimal</div>
+                                <input type="range" name="interest-art" id="interest-art">
+                                <div class="default-text">Love it!</div>
+                            </div>
+                    </div>
+                </div>
+                <div class="form-caption">4. All Done</div>
+                <div class="form-submit">
+                    <div class="form-data">
+                        <div class="form-radio-checkbox">
+                            <input type="checkbox" name="tos-agreement" id="tos-agreement">
+                            <label for="tos-agreement" id="form-label">I agree to the <a href="#">Terms of the Site</a></label>
+                        </div>
+                    </div>
+                    <div class="form-data">
+                        <div id="submit-button">
+                            <button type="submit" value="sign-up">
+                                <img src="resources/start/images/button_ok.png" alt="Button Ok">Sign me up!<br>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </main>
+        
+        <footer>
+            <div>All images are copyright to their owners. This is just a hypothetical site &copy; 2014 Copyright Art Store</div>
+        </footer>
+    </body>
+</html>
