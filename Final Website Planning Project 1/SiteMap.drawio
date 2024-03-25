@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net" modified="2024-03-25T03:08:28.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="aHEmomqAu24fMcdtOFmF" version="24.1.0" type="device">
+  <diagram name="Page-1" id="txOdUNyiE2zPPUE5N3zI">
+    <mxGraphModel dx="1221" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Homepage: About me&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Page 1: Academic Achievements&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="420" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Page 3: Suggestions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="420" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Page 2: Places I Have Been to&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-2" target="YeR2nsqutmyGbr1p_PKP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="910" as="sourcePoint" />
+            <mxPoint x="470" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-3" target="YeR2nsqutmyGbr1p_PKP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="430" as="sourcePoint" />
+            <mxPoint x="365" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-4" target="YeR2nsqutmyGbr1p_PKP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1020" as="sourcePoint" />
+            <mxPoint x="440" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Academic Achievement #1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-17" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-15" target="YeR2nsqutmyGbr1p_PKP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="710" as="sourcePoint" />
+            <mxPoint x="95" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-18" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-19" target="YeR2nsqutmyGbr1p_PKP-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="660" as="sourcePoint" />
+            <mxPoint x="610" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-19" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Logo of Associated Academic Achievement&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="610" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-20" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Logo of Associated Academic Achievement&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="810" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Academic Achievement #1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="710" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-22" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-21" target="YeR2nsqutmyGbr1p_PKP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="560" as="sourcePoint" />
+            <mxPoint x="95" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-23" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-21" target="YeR2nsqutmyGbr1p_PKP-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="620" as="sourcePoint" />
+            <mxPoint x="265" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Place #1 Description&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Place #1 Picture&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="600" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Place #2 Description&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="700" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Place #2 Picture&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="800" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Place #3 Description&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="900" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Place #3 Picture&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1000" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Place #4 Description&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1100" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Place #4 Picture&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1200" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-24" target="YeR2nsqutmyGbr1p_PKP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="800" as="sourcePoint" />
+            <mxPoint x="265" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-26" target="YeR2nsqutmyGbr1p_PKP-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="590" as="sourcePoint" />
+            <mxPoint x="275" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-34" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-28" target="YeR2nsqutmyGbr1p_PKP-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="600" as="sourcePoint" />
+            <mxPoint x="285" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-35" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-30" target="YeR2nsqutmyGbr1p_PKP-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="610" as="sourcePoint" />
+            <mxPoint x="295" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-36" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-24" target="YeR2nsqutmyGbr1p_PKP-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="1165" as="sourcePoint" />
+            <mxPoint x="360" y="915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-37" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-26" target="YeR2nsqutmyGbr1p_PKP-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="770" as="sourcePoint" />
+            <mxPoint x="105" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-38" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-28" target="YeR2nsqutmyGbr1p_PKP-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="780" as="sourcePoint" />
+            <mxPoint x="115" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-39" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-30" target="YeR2nsqutmyGbr1p_PKP-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="790" as="sourcePoint" />
+            <mxPoint x="125" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Form Boxes of Some User Information&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="830" y="500" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Form Box of Suggestions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="830" y="600" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Submit Button&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="830" y="700" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Some Information About Me&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;A Drawing of Me (Not Real Life Picture)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-45" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-40" target="YeR2nsqutmyGbr1p_PKP-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="620" as="sourcePoint" />
+            <mxPoint x="700" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-47" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-41" target="YeR2nsqutmyGbr1p_PKP-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="915" y="590" as="sourcePoint" />
+            <mxPoint x="710" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeR2nsqutmyGbr1p_PKP-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YeR2nsqutmyGbr1p_PKP-40" target="YeR2nsqutmyGbr1p_PKP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1150" as="sourcePoint" />
+            <mxPoint x="425" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
