@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+header {
+    padding: 2.0em;
+    color: white;
+    border: 1px solid black;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    background: black;
+    width: 50vw;
+}
+
+header h2 {
+    background: red;
+    width: 50%
+}
+
+header h3 {
+    background: green;
+    width: 100vw;
+}
