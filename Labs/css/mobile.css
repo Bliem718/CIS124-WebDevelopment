@@ -5,12 +5,12 @@ body {
 }
 
 header {
-    padding: 2.0em;
+    /*padding: 2.0em;*/
     color: white;
     border: 1px solid black;
 }
 
-h1, h2, h3 {
+/*h1, h2, h3 {
     margin: 0;
     padding: 0;
 }
@@ -28,4 +28,39 @@ header h2 {
 header h3 {
     background: green;
     width: 100vw;
+}*/
+
+body > #container > nav {
+    background: lightgreen;
+    width: 20%;
+    float: left;
+}
+
+#container {
+    /*width: 1024px;*/
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+main {
+    background: yellow;
+    width: 80%;
+    margin-left: 20%;
+}
+
+footer {
+    background: lightpink;
+}
+
+@media only screen and (max-width: 650px) {
+    body > #container > nav {
+        float: none; /* Removes the float */
+        width: 100%; /* Change from 20% */
+    }
+    
+    main {
+        margin-left: 0; /* Change from 20% */
+        width: 100%; /* Change from 80% */
+    }
 }
