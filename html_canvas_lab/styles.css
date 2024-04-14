@@ -1,0 +1,35 @@
+body {
+    background: orange;
+    border: 0;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+
+}
+
+a {
+    color:darkgreen;
+    text-decoration: none;
+}
+
+a:hover {
+    background: tan;
+}
+
+canvas {
+    background: white;
+    border: 1px solid black;
+    margin:2em;
+}
+
+div {
+    border:0;
+    margin:1em auto;
+    padding:0;
+    width:29em;
+}
+
+#star {
+    background: black;
+}
