@@ -25,10 +25,10 @@
         
         <!-- Page created for CIS124 -->
         <main>
-            <form>
+            <form action="https://wp.zybooks.com/form-viewer.php" method="get" id="contactform">
                 <div>
                 <label for="fullname">Name:</label>
-                <input type="text" id="fullname" required>
+                <input type="text" id="fullname">
                 </div>
                 
                 <div>
@@ -44,8 +44,12 @@
                 <div>
                 <input type="submit" value="Click to Submit">
                 </div>
+                
+                <div><label for="consent">I agree to receive emails via this email</label>
+                <input type="checkbox" id="consent">
+                </div>
             </form>
-            
+            <div id="errors"></div>
         </main>
         
         <footer>
